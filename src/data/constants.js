@@ -176,7 +176,7 @@ export const projects = [
       "https://budgro.wordpress.com/wp-content/uploads/2015/06/q.jpg",
     tags: ["React JS", "Java","Spring Boot","Hibernate","MySql"],
     category: "Full Stack Development",
-    github: "hhttps://github.com/Seshu916/Green_Bucket_Store",
+    github: "https://github.com/Seshu916/Green_Bucket_Store",
     webapp: "https://github.com/Seshu916/Green_Bucket_Store",
   },
   {
