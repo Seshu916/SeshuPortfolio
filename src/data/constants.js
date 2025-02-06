@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Seshu916",
   resume:
-  "https://drive.google.com/file/d/1sJbA59eO7QzTXpINPp66_BQ9TllR-nD1/view?usp=sharing",
+  "https://drive.google.com/file/d/1zFTmiwobBv54k0FoWT-m6gx6aKu24VGu/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pavan-seshu-akula-194479270/",
   twitter: "https://x.com/PavanSeshu1",
   insta: "https://www.instagram.com/seshu_______/",
