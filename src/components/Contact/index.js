@@ -103,6 +103,8 @@ const ContactInputMessage = styled.textarea`
   }
 `
 
+const snack=styled.input`margin-bottom:30px;`
+
 const ContactButton = styled.input`
   width: 100%;
   text-decoration: none;
@@ -152,6 +154,7 @@ const Contact = () => {
           <ContactButton type="submit" value="Send" />
         </ContactForm>
         <Snackbar
+        id="snack"
           open={open}
           autoHideDuration={6000}
           onClose={()=>setOpen(false)}

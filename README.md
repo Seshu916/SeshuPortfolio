@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://vamsiportfolioweb.netlify.app/)
+### Weblink: [Live Website](https://seshuportfolioo.netlify.app/)
 ## Some Images:
 <img width="450px;" src="https://github.com/user-attachments/assets/ee24736a-a26e-402e-88ac-416c807549d5"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/432deb60-0e57-486c-a897-ef3ddb87f42f"/>
@@ -45,8 +45,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/2vamsi4/VamsiPortfolio.git`
-2. Navigate to the project directory: `cd VamsiPortfolio`
+1. Clone the repository: `git clone https://github.com/Seshu916/SeshuPortfolio.git`
+2. Navigate to the project directory: `cd SeshuPortfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
