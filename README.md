@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://vamsiportfolioweb.netlify.app/)
 ## Some Images:
-<img width="450px;" src="https://github.com/user-attachments/assets/bd1ed7fb-a328-4489-ba71-ceb4a2f3b341"/>
+<img width="450px;" src="https://github.com/user-attachments/assets/ee24736a-a26e-402e-88ac-416c807549d5"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/ee5b4377-518e-45e7-9b2d-fd9aaf4dd75e"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/67cf23b0-061a-4308-8fd1-48b67b362a99"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/b8a9c9c1-11b8-42bf-b981-e12df5d84600"/>
